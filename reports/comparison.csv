@@ -1,0 +1,7 @@
+framework,seed,best_epoch,val_mae,test_mae,seconds
+pytorch,42,106,2.616,2.461,23.2
+keras,42,107,2.856,2.776,37.0
+pytorch,7,116,2.631,2.518,14.4
+keras,7,144,2.686,2.534,35.4
+pytorch,2026,110,2.632,2.473,15.0
+keras,2026,116,2.638,2.522,34.2
